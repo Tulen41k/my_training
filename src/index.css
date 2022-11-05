@@ -1,0 +1,86 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.top-panel{
+    width: 100%;
+    height: 5ch;
+    background-color: rgb(139, 139, 139);
+}
+
+.tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.tab {
+    margin: 3ch;
+}
+
+.title-photo {
+    position: relative;
+    text-align: center;
+}
+
+.picture {
+    height: 50ch;
+    width: 100%;
+    background-color: rgb(139, 139, 139);
+}
+
+.title {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+}
+
+.description{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 80%;
+}
+
+.body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text {
+    height: 50ch;
+    align-content: center;
+}
+
+.clients {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.card {
+    width: 20%;
+    position: relative;
+}
+
+.bg {
+    position: absolute;
+    height: 50ch;
+    width: 100%;
+    background-color: rgb(143, 116, 139);
+}
+
+.btn {
+    position: absolute;
+    width: 30%;
+    height: 5ch;
+    left: 35%;
+    top: 45ch;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    border-radius: 10px;
+}
