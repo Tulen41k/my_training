@@ -7,15 +7,12 @@ function Body () {
             <h2 className='title-h2'>Our Clients</h2>
             <div className='clients'>
                 <div className='card'>
-                    <div className='bg'></div>
                     <button className='btn'>More</button>
                 </div>
                 <div className='card'>
-                    <div className='bg'></div>
                     <button className='btn'>More</button>
                 </div>
                 <div className='card'>
-                    <div className='bg'></div>
                     <button className='btn'>More</button>
                 </div>
             </div>

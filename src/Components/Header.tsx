@@ -12,7 +12,6 @@ function Header() {
         <span className='tab'>Contact us</span>
       </div>
       <div className='title-photo'>
-        <div className='picture'></div>
         <h1 className='title'>Your Title</h1>
         <h3 className='description'>Your Title</h3>
       </div>
